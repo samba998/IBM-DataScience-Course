@@ -1,2 +1,2 @@
 # IBM-DataScience-Course
-This is a rerpository for pair reviews
+This is a repository for pair reviews
